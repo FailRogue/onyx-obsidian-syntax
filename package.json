@@ -1,0 +1,15 @@
+{
+  "name": "onyx-obsidian-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Obsidian theme with a blacker background",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/InterestingJohn/onyx-obsidian-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
